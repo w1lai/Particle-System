@@ -1,0 +1,8 @@
+balljoint root {
+	offset 0.0 0.0 0.0
+	balljoint children_1 {
+		offset -1.0 -1.0 -1.0
+	}
+
+	
+}
